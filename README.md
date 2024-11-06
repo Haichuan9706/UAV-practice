@@ -7,4 +7,4 @@ The sources file is some learning files during the five days.
 
 
 All the simulations are tested in ubuntu18.04,but due to the motion capture environment in our laboratory is different from ZJU,we don't tested our own UAV after the class.
-In the end,hoping you guys can make project that can convert vecon_bridge to vrpn_client,it can help us do testing in our own environment.I will be very appreciate for you!
+In the end,hoping you guys can make project that can convert vicon_bridge to vrpn_client,it can help us do testing in our own environment.I will be very appreciate for you!
